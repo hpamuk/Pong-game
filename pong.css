@@ -1,0 +1,23 @@
+#gameBoard{
+    border: 3px solid;
+
+}
+
+#gameContainer{
+    margin-top: 40px;
+    text-align: center;
+}
+
+#scoreText{
+    font-family: "consolas", monospace;
+    font-size: 70px;
+}
+
+#resetButton{
+    font-family: "Permanent Maker", cursive;
+    font-size: 22px;
+    width: 90px;
+    height: 40px;
+    border: 3px solid;
+    cursor: pointer;
+}
